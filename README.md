@@ -2,15 +2,12 @@
 
 vanilla-extract example
 
+- [seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript](https://github.com/seek-oss/vanilla-extract)
+
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
-
-    npm install vanilla-extract-example
-
-## Usage
-
-- [ ] Write usage instructions
+    yarn install
+    yarn run build
 
 ## Changelog
 
