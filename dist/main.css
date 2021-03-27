@@ -1,0 +1,10 @@
+.styles_themeClass__g7vce90 {
+  --color-brand__g7vce91: blue;
+  --font-body__g7vce92: arial;
+}
+.styles_exampleStyle__g7vce93 {
+  background-color: var(--color-brand__g7vce91);
+  font-family: var(--font-body__g7vce92);
+  color: white;
+  padding: 10px;
+}

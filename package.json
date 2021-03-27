@@ -1,0 +1,39 @@
+{
+  "name": "vanilla-extract-example",
+  "version": "1.0.0",
+  "description": "vanilla-extract example",
+  "homepage": "https://github.com/azu/vanilla-extract-example",
+  "bugs": {
+    "url": "https://github.com/azu/vanilla-extract-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/vanilla-extract-example.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/vanilla-extract-example.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.13.0",
+    "@vanilla-extract/babel-plugin": "^0.1.0",
+    "@vanilla-extract/css": "^0.1.0",
+    "@vanilla-extract/webpack-plugin": "^0.1.0",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.0",
+    "mini-css-extract-plugin": "^1.4.0",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  }
+}

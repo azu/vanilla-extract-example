@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write('\n  <section class="styles_themeClass__g7vce90">\n    <h1 class="styles_exampleStyle__g7vce93">Hello world!</h1>\n  </section>\n')})();
